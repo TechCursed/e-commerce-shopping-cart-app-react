@@ -3,7 +3,7 @@ import { Button, Card } from "react-bootstrap"
 
 export const Product = (props) => {
  
-  const {id, productName, price, productImage} = props.data;
+  const { productName, price, productImage} = props.data;
   return <Card className="d-flex h-100">
 
         <Card.Img variant="top" src={productImage} height="200px" style={{objectFit: "contain"}} />
