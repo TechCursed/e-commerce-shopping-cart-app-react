@@ -1,4 +1,4 @@
-.App {
+/* .App {
   width: 100%;
   height: auto;
   min-height: 100vh;
@@ -6,6 +6,11 @@
 }
 
 body {
+  padding: 0;
+  margin: 0;
+} */
+
+*{
   padding: 0;
   margin: 0;
 }

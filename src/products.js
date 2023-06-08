@@ -1,19 +1,19 @@
 import iPhone from '../src/assets/Laptop.jpg';
-import gshock from '../src/assets/AnalogWatch.jpg'
-import iphone from '../src/assets/iphone14.jpg'
-import FloralTop from '../src/assets/FloralTop.jpg'
-import Shoes from '../src/assets/Shoes.jpg'
-import headphones from '../src/assets/headphones.jpg'
-import guitar from '../src/assets/guitar.jpg'
-import iPad from '../src/assets/iPad.jpg'
-import Shirt from '../src/assets/T-Shirt-men.jpg'
-import PS5 from '../src/assets/PS5.jpg'
-import AC from '../src/assets/AC.jpg'
-import Heel from '../src/assets/StilletoHeel.jpg'
-import Jacket from '../src/assets/Jacket.jpg'
-import appleWatch from '../src/assets/appleWatch.jpg'
-import CropTop from '../src/assets/Crop Top.jpg'
-import Earphones from '../src/assets/WirelessEarphones.jpg'
+import gshock from '../src/assets/AnalogWatch.jpg';
+import iphone from '../src/assets/iphone14.jpg';
+import FloralTop from '../src/assets/FloralTop.jpg';
+import Shoes from '../src/assets/Shoes.jpg';
+import headphones from '../src/assets/headphones.jpg';
+import guitar from '../src/assets/guitar.jpg';
+import iPad from '../src/assets/iPad.jpg';
+import Shirt from '../src/assets/T-Shirt-men.jpg';
+import PS5 from '../src/assets/PS5.jpg';
+import AC from '../src/assets/AC.jpg';
+import Heel from '../src/assets/StilletoHeel.jpg';
+import Jacket from '../src/assets/Jacket.jpg';
+import appleWatch from '../src/assets/appleWatch.jpg';
+import CropTop from '../src/assets/Crop Top.jpg';
+import Earphones from '../src/assets/WirelessEarphones.jpg';
 
 export const PRODUCTS = [
   {
