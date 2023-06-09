@@ -101,7 +101,7 @@ export const PRODUCTS = [
   },
   {
     id: 14,
-    productName: "Apple Watch",
+    productName: "iWatch",
     price: 499,
     productImage: appleWatch,
     
