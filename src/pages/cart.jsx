@@ -12,7 +12,7 @@ export const Cart = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="cart" >
+    <div className="cart">
       <div>
         <h1 style={{margin:"1rem"}}>Your Cart Items</h1>
       </div>

@@ -9,13 +9,12 @@ import { ShopContextProvider } from './context/shop-context';
 
 function App() {
   return (
-    <div className="App bg-light">
+    <div className="App">
     <ShopContextProvider>
       <Router>
         <AppNavbar />
         <Container className="mb-4">
         <Routes>
-          {/* <Route path='/' element={<AppNavbar />} /> */}
           <Route path='/' element={<Shop />} />
           <Route path='/Shop' element={<Shop />} />
           <Route path='/Cart' element={<Cart/>} />
