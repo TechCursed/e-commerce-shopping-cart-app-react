@@ -1,7 +1,17 @@
 import React from 'react'
 import { Form, Button, Row, Col } from 'react-bootstrap';
+import { useNavigate } from 'react-router-dom';
 
 const Payout = () => {
+
+ const navigate = useNavigate();
+
+ const clickfunc = (e) =>{
+  e.preventDefault();
+  alert("Thanks for the purchase")
+  navigate("/")
+
+ }
  return (
  <div>
 
@@ -54,7 +64,7 @@ const Payout = () => {
         <Form.Check type="checkbox" label="Sign up for mailing list" />
       </Form.Group>
 
-      <Button variant="primary" type="submit">
+      <Button variant="primary" type="submit" onClick={(e) => clickfunc(e)}>
         Submit
       </Button>
     </Form>
