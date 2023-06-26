@@ -1,6 +1,7 @@
 # E-commerce-shopping-cart-app-react
 Shopping Cart App using React and styled using React-Bootstrap, I made this app to learn the data flow in react applications using React's Context API.
-Demo : https://ubiquitous-arithmetic-c18257.netlify.app/
+
+Demo : [https://ubiquitous-arithmetic-c18257.netlify.app/](https://e-commerce-shopping-cart-app-react.vercel.app/)
 
 # Getting Started with Create React App
 
