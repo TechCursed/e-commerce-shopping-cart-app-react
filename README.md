@@ -1,3 +1,8 @@
+# E-commerce-shopping-cart-app-react
+Shopping Cart App using React and styled using React-Bootstrap, I made this app to learn the data flow in react applications using React's Context API.
+
+Demo : https://e-commerce-shopping-cart-app-react.vercel.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
